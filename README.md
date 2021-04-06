@@ -8,7 +8,11 @@ Eu sempre desde o inicio pensei como melhorar as mecanicas de o jogo , e a minha
 
 Regras/Instrucoes:
 
-- As pedras dao 1 de damage e cae para o lado.
+- As pedras dao dano ao jogador e e caem para o lado esquerdo.
+- 3 blocos de altura da cada da rocha para o jogador dao 1 damage
+- 4 blocos de altura da cada da rocha para o jogador dao 2 damage
+- 5 blocos de altura da cada da rocha para o jogador dao 3 damage
+
 - A bomba serve para destruir, ou o terreno , ou as partes de madeira que servem como entrada para outras partes do nivel (Nota: Se tiver no raio da explosao leva dano)
 - Cada diamante dá 1 ponto , quando o jogador apanhar todos ganha o jogo.
 - Tem o limite de 1 bomba por pose , para forçar mais movimento de o jogador pelo mapa , dificultando e fazendo mais interesante.
