@@ -10,6 +10,7 @@ Regras/Instrucoes:
 
 - As pedras dao dano ao jogador e e caem para o lado esquerdo.
 - Cada pedra a cair da 1 de dano.
+- Se a pedra cair em cima e o jogador nao tem expaço de fuga é morto istantaneamente
 - A bomba serve para destruir, ou o terreno , ou as partes de madeira que servem como entrada para outras partes do nivel (Nota: Se tiver no raio da explosao leva dano)
 - Cada diamante dá 1 ponto , quando o jogador apanhar todos ganha o jogo.
 - Tem o limite de 1 bomba por pose , para forçar mais movimento de o jogador pelo mapa , dificultando e fazendo mais interesante.
